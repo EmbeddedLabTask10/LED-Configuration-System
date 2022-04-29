@@ -13,3 +13,8 @@ Design consists of 5 different LEDs all working with a forward current of around
 3. The program calculates the resistance value to be used for a particular LED to function.
 4. Using switches we can read the voltage drop across the particular LED to calculate the resistor required for that particular LED.
 5. Resistance values or resistance ranges is shown in LCD display with LED color or number Voltage rating and resistor value or resistance range required.
+
+# Compnents Required
+
+|Components     | Quantity  |
+|LED Green      | 1         |
