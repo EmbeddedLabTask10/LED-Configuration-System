@@ -23,4 +23,10 @@ Design consists of 5 different LEDs all working with a forward current of around
 |LED White    | 1         |
 |LED Orange    | 1         |
 |LED Blue   | 1         |
-|LED Green    | 1         |
+|Arduino UNO R3  | 1         |
+|Bread Board   | 1         |
+|Connecting Wires   | 1         |
+|Resistors 10(k ohm)   | 5         |
+|Switches(Tactile)    | 5         |
+|Resistors 220 ohm  | 7         |
+|Resistors 10 ohm  | 10        |
