@@ -13,6 +13,7 @@ Design consists of 5 different LEDs all working with a forward current of around
 3. The program calculates the resistance value to be used for a particular LED to function.
 4. Using switches we can read the voltage drop across the particular LED to calculate the resistor required for that particular LED.
 5. Resistance values or resistance ranges is shown in LCD display with LED color or number Voltage rating and resistor value or resistance range required.
+6. Led operating voltage will be 5v-R*20mA
 
 # Compnents Required
 
@@ -25,8 +26,10 @@ Design consists of 5 different LEDs all working with a forward current of around
 |LED Blue   | 1         |
 |Arduino UNO R3  | 1         |
 |Bread Board   | 1         |
-|Connecting Wires   | 1         |
-|Resistors 10(k ohm)   | 5         |
+|Jumper Wires   | 30         |
 |Switches(Tactile)    | 5         |
-|Resistors 220 ohm  | 7         |
-|Resistors 10 ohm  | 10        |
+|Resistors 50 ohm  | 1        |
+|Resistors 60 ohm  | 1        |
+|Resistors 80 ohm  | 1        |
+|Resistors 100 ohm  | 1        
+|Resistors 150 ohm  | 1        |
