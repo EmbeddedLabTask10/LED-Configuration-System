@@ -19,5 +19,8 @@ Design consists of 5 different LEDs all working with a forward current of around
 |Components   | Quantity  |
 |-------------|-----------|
 |LED Green    | 1         |
-|LED Green    | 1         |
+|LED Red    | 1         |
+|LED White    | 1         |
+|LED Orange    | 1         |
+|LED Blue   | 1         |
 |LED Green    | 1         |
